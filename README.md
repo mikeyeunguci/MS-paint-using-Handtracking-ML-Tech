@@ -1,6 +1,5 @@
 Collaborators:
-Michael Yeung
-Arnav Amin
+Michael Yeung, Arnav Amin
 
 A creative approach to redesigning MS paint using handtracking technology. With a prediction every 50 milliseconds, the app can track your hand movements and convert the movements into actual drawings. The project is designed around the Handtrack.js library, a machine learning model that uses convolutional neural networks (CNNs) to detect and track hands gestures. Handtrack.js is trained on large datasets of hand images to learn patterns and features that distinguish hands from other objects or background elements in the video feed. Handtrack.js uses AI algorithms to analyze the video frames and make decisions about the presence, position, and movements of hands within the feed.
 
