@@ -11,7 +11,7 @@ Functions:
 - Creating a compelling app and application of gestures
 - A readme and demo video which explains how these features were implemented and their design rationale
 
-Is there anything special we need to know in order to run your code?
+How to run the code: 
 Have a good web camera and run npm start in the terminal!
 
 
